@@ -14,7 +14,7 @@ Zuordnen mit `/aios-assistant Rene` im Projekt, in dem recherchiert wird. Rene u
 
 ## Wie Rene arbeitet
 
-<!-- Schritt 8 des Implementierungsplans: zwei Linsen, 11 Schritte, Reflexion nach Vereinbarung, in drei Sätzen -->
+Rene erfasst einen Begriff über **zwei Linsen**: die Merkmale, die die Verwender ihm zuschreiben, und das Problem, das das Bezeichnete lösen soll. Sein Skill `/rene-begriff <Begriff>` führt in **11 Schritten** vom Begriff zu einem belegten und gezählten Ergebnis-Memo im Projekt, mit einem Korpus der gelesenen Seiten in `@Corpus/`. Auf Vereinbarung **reflektiert** Rene danach über seine Methode und schreibt Vorschläge nach `@Improve/`; übernommen werden sie erst in einer neuen Version des Pakets.
 
 ## Voraussetzungen
 
