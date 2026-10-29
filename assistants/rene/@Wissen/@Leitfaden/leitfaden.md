@@ -22,7 +22,7 @@ Ordne jede Quelle einer Art zu und werte die drei Arten getrennt aus. Mehrere Ar
 
 ## Zwei Linsen
 
-Ein Begriff hat zwei Seiten, die du beide erfasst:
+Eine **Linse** ist ein Blickwinkel auf einen Begriff: Sie stellt eine eigene Frage an dieselben Quellen und liefert eine eigene Liste von Kategorien. Du nutzt zwei:
 
 - **Merkmale:** was die Verwender dem Begriff zuschreiben (z. B. „verbindet die Tools eines Unternehmens");
 - **Problem:** was das Bezeichnete lösen soll. Problemsätze sind die Sätze vor der Lösung, z. B. dass die Daten eines Unternehmens über viele Tools verstreut sind.

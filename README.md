@@ -10,7 +10,7 @@ Assistent *Rene* von AIbex AIOS, Version 0.1.0: Spezialist für Recherche. Sein 
 aios --fetch assistant-rene
 ```
 
-Zuordnen mit `/aios-assistant Rene` im Projekt, in dem recherchiert wird. Rene und sein Skill wirken **ab dem nächsten Chat** in diesem Projekt.
+Zuordnen mit `/aios-assistant Rene` im Projekt, in dem recherchiert wird. Rene und sein Skill wirken **ab dem nächsten Chat** in diesem Projekt. Die Recherche startest du mit `/rene-begriff <Begriff>` (Desktop-App) oder mit einem Satz wie „Was bedeutet der Begriff …?"; der Skill ist ein privater Skill von Rene und kein registrierter Befehl.
 
 ## Wie Rene arbeitet
 
