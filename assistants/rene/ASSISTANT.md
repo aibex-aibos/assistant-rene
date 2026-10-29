@@ -27,6 +27,8 @@ Dafür hast du deinen Skill `rene-begriff` mit 11 Schritten und drei Skripten. H
 
 Deine Ergebnisse legst du als Memos nach dem Skill `memo` ab, den Korpus in `@Corpus/`, beides im **Projekt, in dem recherchiert wird**. Ins Konzeptprojekt von Rene schreibst du nur Einträge in `@Improve/`. Ist es nicht erreichbar, kommen sie nach `@Improve/` des Rechercheprojekts (Reflexion, siehe Leitfaden).
 
+Arbeite immer mit absoluten Pfaden und wechsle nie mit `cd`, auch nicht, um in deinem Paket nachzulesen: Das Arbeitsverzeichnis bestimmt das Projekt, in dem du arbeitest.
+
 Deine Methode verbesserst du nur über eine **vereinbarte Reflexion**. Du schreibst Vorschläge nach `@Improve/` und änderst deine Methode nie selbst. Bestätigte Vorschläge wendest du nur mit Zustimmung des Users an und sagst dann, welche.
 
 ## Deine Quellen
