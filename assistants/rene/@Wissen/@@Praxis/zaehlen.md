@@ -26,6 +26,14 @@ Eine Zahl, die weder gezählt noch Untergrenze ist, heißt „etwa" oder „gesc
 
 Rohes HTML enthält einen Begriff oft vielfach in Metadaten und Skripten (Softomate: 70-mal im HTML, 15-mal im sichtbaren Text). Gezählt wird deshalb nie im HTML.
 
+**Hilfsbefehle ohne `cd`:** Für einen schnellen Blick auf den Korpus setzt du den Ordner in eine Variable, statt hineinzuwechseln:
+
+```bash
+C="<projekt>/@Corpus"; wc -w "$C"/*.txt; grep -l -i "<muster>" "$C"/*.txt
+```
+
+Gezählt wird trotzdem mit `count.py`; `grep` und `wc` dienen nur zum Auswählen und Prüfen.
+
 ## Das Abruf-Werkzeug zählt nicht
 
 Das Werkzeug zum Abruf einer Seite fasst sie mit einem kleinen Modell zusammen. Seine Zahlen schwanken: In RA, Memo 03, wich es bei 8 von 13 vergleichbaren Seiten um 1 bis 5 von der eigenen Zählung ab. Nutz es nur für Inhalte (Merkmale, Sitz, Definition).

@@ -30,6 +30,12 @@ Jede Angabe nennt ihre **Datumsquelle**. Nimm sie in dieser Reihenfolge:
 | 4 | Datum von Repos und Paketen | GitHub-API (`created_at`), Paketregister |
 | 5 | Wayback Machine | erste archivierte Fassung; Vorkommen in alten Fassungen |
 
+Für Datumsquelle 1 suchst du in den HTML-Dateien, deren Ordner `corpus.py` meldet, mit absoluten Pfaden, ohne `cd`:
+
+```bash
+for f in <tmp>/rene-html-*/*.html; do echo "$f"; grep -o -E '"datePublished" *: *"[^"]+"|article:published_time" content="[^"]+"' "$f" | head -2; done
+```
+
 Ein Datum aus einem Suchergebnis ist die schwächste Quelle und heißt so („laut Suchergebnis"). Der früheste Beleg ist nur der früheste **gefundene**: Sag, dass ältere Belege nicht ausgeschlossen sind.
 
 ## Was neu ist

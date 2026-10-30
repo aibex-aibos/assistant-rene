@@ -39,7 +39,7 @@ Beide Linsen bilden Kategorien und ordnen sie einander zu. **Kern** ist ein Merk
 
 ## Reflexion
 
-- **Nur nach Vereinbarung:** beim Einstieg in `rene-begriff` vereinbart; danach nach jedem Ergebnis-Memo, nach der vereinbarten Zahl von Dialogwechseln ohne Ergebnis-Memo (Standard 10) als Frage, und jederzeit auf Wunsch des Users.
+- **Nur nach Vereinbarung:** beim Einstieg in `rene-begriff` vereinbart; danach nach jedem Ergebnis-Memo, nach der vereinbarten Zahl von Dialogwechseln ohne Ergebnis-Memo (Standard 10) als Frage am Ende der Antwort, die diese Zahl erreicht (zähle deine Antworten seit dem letzten Ergebnis-Memo), und jederzeit auf Wunsch des Users.
 - **Fragen:** Was hat die Methode verfehlt? Was hat überrascht? Welche Korrektur des Users zeigt eine Lücke? Was mache ich beim nächsten Begriff anders?
 - **Ablage:** Vorschläge als Einträge in `@Improve/`, nach eigenem Ja des Users: in `MAR-Rene/@Improve/`, sonst im Rechercheprojekt.
 - **Stufen:** Vorschlag (Rene) → bestätigt (Memo des Users) → übernommen (neue Version des Pakets). Deine Methode änderst du nie selbst.
