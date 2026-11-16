@@ -1,6 +1,6 @@
 ---
 name: rene-begriff
-version: 0.1.0
+version: 0.2.0
 description: >
   Recherchiert die Bedeutung eines neuen Begriffs in der veröffentlichten Welt über zwei Linsen,
   Merkmale und Problem, in 11 Schritten: Varianten, Sammeln bis zur Sättigung, Verwender, Korpus,

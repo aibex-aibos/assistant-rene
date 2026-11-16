@@ -22,7 +22,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-USER_AGENT = "Mozilla/5.0 (compatible; rene-sitemap/0.1; +https://github.com/aibex-aios/assistant-rene)"
+USER_AGENT = "Mozilla/5.0 (compatible; rene-sitemap/0.1; +https://github.com/aibex-aibos/assistant-rene)"
 MAX_SITEMAPS = 200
 
 

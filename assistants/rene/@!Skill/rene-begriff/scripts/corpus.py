@@ -46,7 +46,7 @@ BLOCK = {"p", "div", "section", "article", "main", "br", "li", "ul", "ol",
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link",
         "meta", "param", "source", "track", "wbr"}
 
-USER_AGENT = "Mozilla/5.0 (compatible; rene-corpus/0.1; +https://github.com/aibex-aios/assistant-rene)"
+USER_AGENT = "Mozilla/5.0 (compatible; rene-corpus/0.1; +https://github.com/aibex-aibos/assistant-rene)"
 
 
 class TextParser(HTMLParser):

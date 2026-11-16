@@ -1,9 +1,9 @@
 name: assistant-rene
-version: 0.1.0
+version: 0.2.0
 type: assistant
 description: Assistent Rene, Spezialist für Recherche - Semantik neuer Begriffe
 requires:
-  aios: ">=0.5,<0.7"
+  aibos: ">=0.7,<0.8"
 contents:
   assistants: [rene]
 license: Apache-2.0
