@@ -1,5 +1,5 @@
 name: assistant-rene
-version: 0.2.0-rc1
+version: 0.2.0
 type: assistant
 description: Assistent Rene, Spezialist für Recherche - Semantik neuer Begriffe
 requires:
